@@ -3,23 +3,23 @@
 
 **Clone repository**
 
-**Install necessary libraries by using following command in terminal **
+**Install necessary libraries by using following command in terminal**
 
 `pip install -r requirements.txt`
 
-Open terminal and switch to the downloaded directory
+**Open terminal and switch to the downloaded directory**
 
-run following command
+*run following command*
 
-python python server.py
+`python python server.py`
 
-Server will be started at http://127.0.0.1:5000 local host (IP adress may be change according to your PC)
+*Server will be started at http://127.0.0.1:5000 local host (IP adress may be change according to your PC)*
 
-Now open another terminal and switch to downloaded directory
+**Now open another terminal and switch to downloaded directory**
 
-Type follwoing command in terminal
+*Type follwoing command in terminal*
 
-python client2.py
+`python client2.py`
 
-file will be received named as 'received_file.jpg'
+*file will be received named as 'received_file.jpg'*
 
