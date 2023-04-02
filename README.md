@@ -1,11 +1,11 @@
 # REST-to-send-image-from-one-PC-to-other
-##This API will send Image from client to serve
+## This API will send Image from client to serve
 
-Clone repository
+**Clone repository
 
-Install necessary libraries by using following command in terminal
+**Install necessary libraries by using following command in terminal
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Open terminal and switch to the downloaded directory
 
