@@ -1,4 +1,4 @@
-# REST-to-send-image-from-one-PC-to-other
+# REST API to send image from one PC to another
 ## This API will send Image from client to serve
 
 **Clone repository**
